@@ -1,20 +1,20 @@
 export type navLinkType ={
     label :string,
-    links :string
+    href :string
  }
- export const navLinksData = [
+ export const navhLinksData = [
     {
         label:"Female",
-        links:"#"
+        href:"#"
     },{
         label:"Male",
-        links:"#"
+        href:"#"
     },{
         label:"Kids",
-        links:"#"
+        href:"#"
     },{
         label:"All Products",
-        links:"#"
+        href:"#"
     },
  ]
  export const heroData = [
